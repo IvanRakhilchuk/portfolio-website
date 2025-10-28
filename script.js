@@ -1,2 +1,1 @@
-// Simple greeting
-console.log('Portfolio ready. This site will evolve as Ivan learns 🚀');
+console.log("Portfolio ready. Updating as Ivan learns 🚀");
